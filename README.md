@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/SCAuFish/110-Lab4.svg?branch=lab5)](https://travis-ci.org/SCAuFish/110-Lab4)
